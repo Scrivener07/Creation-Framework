@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<!-- http://www.creationkit.com/fallout4/index.php?title=Papyrus_Projects -->
+<PapyrusProject
+	xmlns="PapyrusProject.xsd"
+	Flags="Institute_Papyrus_Flags.flg"
+	Output="..\..\"
+	Asm="Discard"
+	Optimize="false"
+	Release="false"
+	Final="false"
+>
+	<Imports>
+		<Import>.</Import>
+		<Import>..\System.XSE</Import>
+		<Import>..\System</Import>
+		<Import>..\F4SE</Import>
+		<Import>..\Base</Import>
+	</Imports>
+	<Folders>
+		<Folder>.</Folder>
+	</Folders>
+</PapyrusProject>
